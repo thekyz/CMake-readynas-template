@@ -1,0 +1,3 @@
+#!/bin/bash
+
+cmake -DCMAKE_TOOLCHAIN_FILE=../conf/toolchain-sparc-linux.cmake ..
